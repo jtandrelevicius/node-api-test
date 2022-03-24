@@ -1,0 +1,8 @@
+{
+  "name": "node-api-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jtandrelevicius/node-api-test.git",
+  "author": "Jefferson Tiago <jtandrelevicius@gmail.com>",
+  "license": "MIT"
+}
