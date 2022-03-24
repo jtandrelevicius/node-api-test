@@ -6,6 +6,7 @@
   "author": "Jefferson Tiago <jtandrelevicius@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
   }
 }
